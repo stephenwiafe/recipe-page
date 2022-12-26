@@ -1,12 +1,20 @@
 *{
     background-color: rgb(169, 214, 169);
 }
-h1{
+h1, 
+#main-heading{
     text-align: center;
 }
 
 img{
     height:auto;
     width: 400px;
+}
+
+#main-heading{
+    font-weight: bold;
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    
 }
 
