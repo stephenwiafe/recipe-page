@@ -1,6 +1,7 @@
 *{
     background-color: rgb(169, 214, 169);
 }
+
 h1, 
 #main-heading{
     text-align: center;
@@ -9,6 +10,12 @@ h1,
 img{
     height:auto;
     width: 400px;
+}
+
+#mainpage-img{
+    height:auto;
+    width: 800px;
+    margin-left: 290px;
 }
 
 #main-heading{
