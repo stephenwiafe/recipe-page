@@ -1,35 +1,41 @@
-*{
+* {
     background-color: rgb(169, 214, 169);
 }
 
 h1, 
-#main-heading{
+#main-heading {
     text-align: center;
 }
 
-img{
+img {
     height:auto;
     width: 400px;
 }
 
-.mainpage-img{
+.mainpage-img {
     height:auto;
     width: 800px;
     margin-left: 290px;
 }
 
-#main-heading{
+#main-heading {
     font-weight: bold;
     font-family: serif, sans-serif;
     font-size: 43px;
     color: rgb(0, 0, 0);   
 }
 
-h3{
+h3 {
     margin-left: 120px;
 }
 
-a{
+a {
     text-decoration: none;
 }
+
+ul {
+    list-style: none;
+}
+
+
 
